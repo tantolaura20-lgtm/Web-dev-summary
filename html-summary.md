@@ -8,7 +8,7 @@ Attributes provide extra information and are always inside the opening tag. Ex: 
 
 HTML has 6 heading levels (h1 to h6). Ex: <h1>Main Title</h1>
 
-Paragraphs are sed to write blocks of text.
+Paragraphs are used to write blocks of text.
 Ex: <p>This is a paragraph.</p>
 
 Links are created with the <a> tag and use the href attribute.
