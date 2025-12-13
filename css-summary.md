@@ -117,7 +117,7 @@ a:hover {
 9. Lists & Tables
 
 What i learned:
-You can style lists (e.g., remove bullets, add custom markers) and tables (borders, spacing, alignment) with CSS.
+You can style lists (e.g., remove bullets, add custom markers) and tables (borders, spacing, alignment) with CSS
 
 Examples:
 
@@ -143,7 +143,7 @@ div.fixed {
 
 11. Flexbox (Responsive Layouts)
 
-What you learn:
+What i learned:
 Flexbox makes it easy to build flexible, adaptive layouts. You use properties like display: flex, flex-direction, justify-content, and align-items.
 
 Example:
@@ -158,7 +158,7 @@ Example:
 12. Responsive Web Design & Media Queries
 
 What i learned:
-Media queries let you apply different styles depending on screen size or device type — key for responsive design.
+Media queries let's onr apply different styles depending on screen size or device type — key for responsive design
 
 Example:
 
